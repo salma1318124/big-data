@@ -1,0 +1,11 @@
+big	1
+data	1
+for	1
+hadoop	3
+hdfs	1
+hello	2
+is	1
+mapreduce	2
+powerful	1
+processing	1
+world	2
